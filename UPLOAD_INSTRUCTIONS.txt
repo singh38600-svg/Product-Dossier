@@ -1,0 +1,21 @@
+PRODUCT DOSSIER — PHONE UPLOAD INSTRUCTIONS
+
+1. Extract Product-Dossier-GitHub-Upload.zip on your phone.
+2. Open your GitHub repository: singh38600-svg/Product-Dossier
+3. Tap Add file → Upload files.
+4. Select all files and folders INSIDE the extracted Product-Dossier folder.
+5. Commit directly to the main branch.
+6. Open Vercel → Add New → Project.
+7. Import Product-Dossier.
+8. Framework Preset: Other.
+9. Leave Build Command and Output Directory empty.
+10. Deploy.
+
+After deployment, send the Vercel preview URL back to ChatGPT.
+We can then review the live site and make UI changes.
+
+Files to edit later:
+- assets/css/styles.css → visual design
+- data/evidence.js → evidence cards
+- edition.html → main research narrative
+- about.html → your contact details
